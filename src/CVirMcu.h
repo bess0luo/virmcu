@@ -169,7 +169,7 @@ public:
 };
 
 class CVirMcu {
-
+public:
 	MdSys Sys;
 	MdRges Rges;
 
